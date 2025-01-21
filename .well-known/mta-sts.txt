@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: xavier-edu.mail.protection.outlook.com
+mx: my-xavier-edu.mail.protection.outlook.com
+max_age: 604800
